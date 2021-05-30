@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `miguelzinhe`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Miguel Soares`,
+      summary: `cientista social em formação, faço códigos pra sobreviver e trabalhos manuais por paixão. tenho TDAH e por isso fiz esse blog, pra procrastinar mais, é claro. meus pronomes são a/ela/ele/elu. `,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://miguelsoar.es`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `miguelzinhe`,
     },
   },
   plugins: [
@@ -113,7 +113,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
+        name: `miguelzinhe`,
         short_name: `GatsbyJS`,
         start_url: `/`,
         background_color: `#ffffff`,

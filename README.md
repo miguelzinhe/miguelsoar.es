@@ -1,4 +1,6 @@
 # miguelsoar.es
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/03455a1c-31cb-4b6f-98f6-048dc3003ff7/deploy-status)](https://app.netlify.com/sites/miguelsoares/deploys)
 ## 🚀 Quick start
 
 1.  **Create a Gatsby site.**
